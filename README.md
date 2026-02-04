@@ -1,8 +1,6 @@
-Examples illustrating methods for approximation of envelopes of generalized planar swept volumes by circular arcs described in 
+Wolfram Mathematica notebooks with examples illustrating the methods for approximation of envelopes of generalized planar swept volumes by circular arcs introduced in 
 
 J. Vráblíková and B. Jüttler, **Arc spline approximation of envelopes of evolving planar domains**, Journal of Computational and Applied Mathematics, Volume 483, 2026, [link](https://doi.org/10.1016/j.cam.2026.117372).
-
-The methods are implemented in Wolfram Mathematica.
 
 
 **Content**:
